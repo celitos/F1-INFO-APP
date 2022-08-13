@@ -1,0 +1,4 @@
+Device previewed: iPhone 13 mini
+Platform used: Figma
+
+development and updates will be added to this directory.
